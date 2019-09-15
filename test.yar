@@ -7,7 +7,7 @@ rule Control32 {
         hash.sha256(0, filesize) == "da2a4e7e5748f929058fd654aaf1890c80909b08c90bbdc2a12bfcf2efee1cea"
 }
 
-rule php_obfuscation
+rule actsus
 {
     meta:
         author = "Nick"
