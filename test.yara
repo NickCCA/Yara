@@ -18,5 +18,5 @@ rule actsus
         $c = "actsus" wide
 
     condition:
-     IsPeFile and 1 of them
+    1 of them
 }
